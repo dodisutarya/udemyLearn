@@ -1,14 +1,21 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 h1 {  
   
-  
   margin: 100px auto 0 auto;
-  
-  
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -24,6 +31,8 @@ h1 {
   background-color: red;
   width: 200px;
   height: 200px;
+  
+
   
   
 
