@@ -5,8 +5,8 @@ body {
 }
 
 h1 {  
-  
-  margin: 100px auto 0 auto;
+  font-size: 90px;
+  margin-top: 0;
   font-family: 'Sacramento', cursive;
 }
 
@@ -22,41 +22,34 @@ h3 {
 
 .top-container {
   background-color: #a2eae2;
-  position: absolute;
-  width: 100%;
+  position: relative;
+  padding-top: 100px;
+  /* width: 100%; */
   
 }
 
 .middle-container {
-  background-color: red;
-  width: 200px;
-  height: 200px;
-  
-
-  
-  
+ 
 
 }
 
 .bottom-container {
-  background-color: yellow;
-  width: 200px;
-  height: 200px;
- 
+  
 }
 
 #pro {
   text-decoration: underline;
 }
 
+.top-cloud {
+  position: absolute;
+  margin: 100px auto 0 300px; 
+  
+
+  
+}
+
 .bottom-cloud {
   position: absolute;
 }
 
-.top-cloud {
-  position: absolute;
-  margin: 100px auto 0 300px;
-  
-
-  
-}
