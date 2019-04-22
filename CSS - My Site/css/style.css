@@ -8,17 +8,24 @@ h1 {
   font-size: 90px;
   margin-top: 0;
   font-family: 'Sacramento', cursive;
+  color: #66BFBF;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  line-height: 2;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  color: #11999E;
 }
 
-
+p{
+  font-weight: normal;
+  line-height: 2;
+}
 
 .top-container {
   background-color: #a2eae2;
@@ -53,3 +60,8 @@ h3 {
   position: absolute;
 }
 
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
