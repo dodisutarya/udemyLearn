@@ -49,3 +49,7 @@ h1 {
     width: 60%;
     transform: rotate(25deg);
 }
+
+.features-box {
+    padding: 4.5%;
+}
